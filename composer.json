@@ -13,7 +13,7 @@
     "homepage": "https://github.com/sammyjo20",
     "require": {
         "php": "^8.2",
-        "illuminate/http": "^11.0|^12.0",
+        "illuminate/http": "^9.0 || ^10.0 || ^11.0",
         "saloonphp/saloon": "^3.1"
     },
     "require-dev": {
